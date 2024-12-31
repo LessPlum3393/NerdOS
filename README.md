@@ -5,6 +5,6 @@
 </p>
 
 <h1 align="center">Nerd OS</h1>
-<p align="center">Nerd OS is a Linux distribution based on Alpine Linux, specifically designed for low-end systems.</p>
+<p align="center">Nerd OS is a Linux distribution specifically designed for low-end systems.</p>
 
 # THE PROJECT IS COMING IN EARLY 2025
