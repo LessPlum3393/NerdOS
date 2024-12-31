@@ -5,4 +5,4 @@
 </p>
 
 <h1 align="center">Nerd OS</h1>
-<p align="center">Nerd OS is a Linux distribution based on Debian, specifically designed for students.</p>
+<p align="center">Nerd OS is a Linux distribution based on Debian, specifically designed for low-end systems.</p>
