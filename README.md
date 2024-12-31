@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://raw.githubusercontent.com/LessPlum3393/NerdOS/refs/heads/main/images/output.jpg">
-        <img src="https://raw.githubusercontent.com/LessPlum3393/NerdOS/refs/heads/main/images/output.jpg" alt="Nerd OS" width="256" height="256">
+        <img src="https://raw.githubusercontent.com/LessPlum3393/NerdOS/refs/heads/main/images/nerd.png" alt="Nerd OS" width="256" height="256">
     </a>
 </p>
 
